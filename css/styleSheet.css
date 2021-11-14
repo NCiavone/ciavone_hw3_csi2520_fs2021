@@ -116,7 +116,18 @@ footer a:hover{
     width:100%;
   }
 }
-
+button {
+  border: none;
+  color: #333;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
 .centerImage
 {
  text-align:center;
@@ -124,5 +135,5 @@ footer a:hover{
 }
 
 html{
-  background-color: rgb(170, 221, 252);
+  background-color: rgb(193, 227, 248);
 }
